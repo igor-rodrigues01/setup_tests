@@ -9,9 +9,17 @@ from setuptools import setup
 def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
+requirements=[
+   'requests',
+   'bpython',
+   'ipython',
+   'django==1.6'
+]
+
+
 setup(
     name="proj",
-    version="0.0.1",
+    version="0.0.2",
     author="Andrew Carter",
     author_email="andrewjcarter@gmail.com",
     description=('pequeno projeto para testar setup.py'),

@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: proj
+Version: 0.0.2
+Summary: pequeno projeto para testar setup.py
+Home-page: http://packages.python.org/an_example_pypi_project
+Author: Andrew Carter
+Author-email: andrewjcarter@gmail.com
+License: BSD
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: example documentation tutorial
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Framework :: Pytest
+Classifier: Framework :: Setuptools Plugin

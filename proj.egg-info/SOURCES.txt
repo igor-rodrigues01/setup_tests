@@ -1,0 +1,12 @@
+README
+setup.py
+proj/__init__.py
+proj/f1.py
+proj.egg-info/PKG-INFO
+proj.egg-info/SOURCES.txt
+proj.egg-info/dependency_links.txt
+proj.egg-info/top_level.txt
+proj2/__init__.py
+proj2/f2.py
+tests/__init__.py
+tests/ft.py
